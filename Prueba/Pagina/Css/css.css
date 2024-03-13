@@ -1,0 +1,21 @@
+/* Estilos personalizados para el navbar */
+.navbar {
+    background-color: #6c757d; /* Gris oscuro */
+}
+
+/* Cambiar el color del texto de los enlaces del navbar */
+.navbar .nav-link {
+    color: #ffffff; /* Blanco */
+}
+
+/* Estilos para el botón de búsqueda */
+.navbar .btn-outline-success {
+    background-color: #2863a7; /* Verde */
+    border-color: #28a7a7; /* Verde */
+    color: #ffffff; /* Blanco */
+}
+
+.navbar .btn-outline-success:hover {
+    background-color: #218838; /* Verde oscuro al pasar el mouse */
+    border-color: #1e7e34; /* Verde oscuro al pasar el mouse */
+}
